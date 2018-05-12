@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1256
     wikipedia: http://en.wikipedia.org/wiki/Harold_Edward_Bindloss
 description: 'Published in England as: The Trustee'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14698#Ranching-for-Sylvia
 gutenberg_issued: '2005-01-15'
 gutenberg_type: Text
 identifiers:
